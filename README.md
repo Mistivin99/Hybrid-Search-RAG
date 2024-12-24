@@ -13,7 +13,8 @@ RRF is a method to combine ranked lists from different retrieval systems (e.g., 
 It assigns scores to documents based on their rank in each list and fuses them into a single ranked list.
 
 Key Formula:
-RRF-Score = ![image](https://github.com/user-attachments/assets/094493bf-80bc-4f28-aa22-27cde5612cbd)
+
+![image](https://github.com/user-attachments/assets/094493bf-80bc-4f28-aa22-27cde5612cbd)
 
 **Steps:**
 - Compute scores for each document across multiple lists.

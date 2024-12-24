@@ -1,5 +1,11 @@
 **Hybrid search**
 
+**Tech Stack:**
+
+Programming Language: Python
+Libraries: LangChain, Pinecone, NumPy
+Database: Vector Database (Pinecone)
+
 In the context of information retrieval, hybrid search often involves blending traditional keyword-based searching with more advanced techniques such as natural language processing (NLP),
 semantic search, and machine learning. Most of the e-commerce websites use this hybrid search technique.
 
